@@ -53,3 +53,8 @@ a:visited {
 a:hover {
   color: #FF00FF;
 }
+
+#para1 {
+  text-align: center;
+  color: darkblue;
+}
