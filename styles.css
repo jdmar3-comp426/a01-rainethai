@@ -42,3 +42,12 @@ ol.c {
 ol.d {
   list-style-type: lower-alpha;
 }
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: #FF00FF;
+}
