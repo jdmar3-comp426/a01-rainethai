@@ -1,0 +1,44 @@
+body {
+  background-color: lightblue;
+}
+
+div {
+  background-color: lightblue;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+h2 {
+  color: hotpink;
+  text-align: center;
+  border: 1px solid;
+}
+
+ul.a {
+  list-style-type: circle;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+ul.b {
+  list-style-type: square;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
