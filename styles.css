@@ -4,6 +4,8 @@ body {
 
 div {
   background-color: lightblue;
+  height: 200px;
+  width: 50%;
 }
 
 h1 {
