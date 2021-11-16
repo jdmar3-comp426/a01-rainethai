@@ -1,0 +1,60 @@
+body {
+  background-color: #CAE9F5;
+}
+
+div p {
+  background-color: darkblue;
+  height: 200px;
+  width: 50%;
+}
+
+h1 {
+  color: darkcyan;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+h2 {
+  color: hotpink;
+  text-align: center;
+  border: 1px solid;
+}
+
+ul.a {
+  list-style-type: circle;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+ul.b {
+  list-style-type: square;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: #FF00FF;
+}
+
+#para1 {
+  text-align: center;
+  color: darkblue;
+}
